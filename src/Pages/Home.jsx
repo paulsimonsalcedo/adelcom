@@ -247,7 +247,7 @@ export default function Home() {
           </div>
         </div>
 
-            <div className="adc-feature-media adc-gallery adc-batirol-media">
+        <div className="adc-feature-media adc-gallery adc-batirol-media">
             <span className="adc-badge">🍫 Product #3</span>
             <img
               className="adc-gallery-main adc-batirol-img"
@@ -304,7 +304,7 @@ export default function Home() {
 
       {/* Contact CTA */}
       <section className="adc-cta" id="contact">
-        <h2>Order your water today!</h2>
+        <h2>Order na baka maubusan kapa!</h2>
         <p>Need purified drinking water, load, a SIM card or a quick snack? Call or text us and we'll take care of you.</p>
         <div className="adc-cta-row center">
           {DELIVERY.map((d) => (
